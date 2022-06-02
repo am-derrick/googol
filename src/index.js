@@ -12,5 +12,5 @@ ReactDOM.render(
             <App />
         </Router>
     </ResultContextProvider>,
-document.getElementById('root')
+document.getElementById('root'),
 );
