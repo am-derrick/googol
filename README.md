@@ -4,7 +4,7 @@ This repository contains files for the Google Search Clone dubbed "Googol".
 
 A [googol](https://www.google.com/search?q=googol&oq=googol&aqs=chrome..69i57j35i39j69i60j69i61l2j69i65l3.2433j0j7&sourceid=chrome&ie=UTF-8) is the large number 10¹⁰⁰. Btw, Google should've been named Googol but a typo happened and the rest is history.
 
-To view the full functional web app on your browser, use the link [here](https://gogool-search.netlify.app)
+To view the full functional web app on your browser, use the link [here](https://gogool-search.netlify.app).
 
 The author of this project is Derrick Ampire,
 - [GitHub](https://github.com/am-derrick)
@@ -15,7 +15,7 @@ The author of this project is Derrick Ampire,
 
 ## Demo
 
-Watch full demo video [here]((https://www.loom.com/share/5ecc35cd4acd46c29d068a117b5c1b23).
+Watch full demo video [here](https://www.loom.com/share/5ecc35cd4acd46c29d068a117b5c1b23).
 
 ## Installation
 
