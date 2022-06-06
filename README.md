@@ -14,7 +14,7 @@ The author of this project is Derrick Ampire,
 
 ## Demo
 
-Watch full demo video [here](https:/---).
+Watch full demo video [here]((https://www.loom.com/share/5ecc35cd4acd46c29d068a117b5c1b23).
 
 ## Installation
 
