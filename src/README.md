@@ -1,4 +1,4 @@
-# This directory contains the src files for the main App.
+# This directory contains the source files for the main App.
 
 App.js contains the main app with with all the components.
 Index.css uses tailwind to style components in the main App.
