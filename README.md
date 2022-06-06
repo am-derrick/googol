@@ -10,9 +10,10 @@ The author of this project is Derrick Ampire,
 - [LinkedIn](https://www.linkedin.com/in/ampire-derrick-1957b0185/)
 - [Twitter](https://www.twitter.com/am_derrick)
 
-![Googol Screenshot](https://user-images.githubusercontent.com/65196859/172188972-d2b5b4d7-7124-45cd-a041-ad47efcd2e93.png)
+![Googol Screenshot 1](https://user-images.githubusercontent.com/65196859/172196677-4c7451e5-da13-4015-8c58-7cc100ae66e7.png)
 
 ## Demo
+
 Watch full demo video [here](https:/---).
 
 ## Installation
