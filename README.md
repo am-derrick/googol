@@ -1,4 +1,4 @@
-# Google Search Clone - Googol
+# Google Search Clone - Googol 🔎
 ## Introduction
 This repository contains files for the Google Search Clone dubbed "Googol".
 
