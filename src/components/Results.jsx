@@ -5,6 +5,7 @@ import ReactPlayer from 'react-player';
 import { useResultContext } from '../contexts/ResultContextProvider';
 import { Loading } from './Loading';
 
+// Component for the results of the search
 export const Results = () => {
   const { results, isLoading, getResults, searchTerm } = useResultContext();
   const location = useLocation();
@@ -22,7 +23,7 @@ export const Results = () => {
   if(isLoading) return <Loading />;
 
   switch (location.pathname) {
-    case '/search':
+    case '/search': // case for when the user accesses the search pane
       return (
         <div className='flex flex-wrap justify-between space-y-6 sm:px-56'>
           {results?.map(({ link, title }, index) => (
@@ -39,7 +40,7 @@ export const Results = () => {
           ))}
         </div>
       );
-    case '/images':
+    case '/images': // case for when the user accesses the images pane
       return (
         <div className='flex flex-wrap justify-center items-center'>
           {results?.map(({ image, link: { href, title }}, index) => (
@@ -52,7 +53,7 @@ export const Results = () => {
           ))}
         </div>
       );
-    case '/news':
+    case '/news': // case for when the user accesses the news pane
       return (
         <div className='flex flex-wrap justify-between space-y-6 sm:px-56 items-center'>
           {results?.map(({ links, id, source, title }) => (
@@ -71,7 +72,7 @@ export const Results = () => {
           ))}
         </div>
       );
-    case '/videos':
+    case '/videos': // case for when the user accesses the videos pane
       return (
         <div className='flex flex-wrap'>
           {results.map((video, index) => (
