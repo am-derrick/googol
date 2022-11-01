@@ -1,6 +1,7 @@
 import React from 'react';
 import { InfinitySpin } from 'react-loader-spinner';
 
+// Loads with an infinity spin
 export const Loading = () => {
   return (
     <div className='flex justify-center items-center'>
